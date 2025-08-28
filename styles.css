@@ -1,0 +1,25 @@
+h2{
+    color: rgb(8, 19, 239);
+}
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr 4fr; /* Defines 3 columns */
+    grid-gap: 350px;
+    color:rgb(243, 10, 10)
+}
+
+img{
+    float: right;
+    width: 800px;
+    height: 500px;
+    
+}
+.para{
+   
+display: flex;
+flex-direction: column;
+justify-content:space-between;
+align-items:flex-end;
+color: blue;
+
+}
